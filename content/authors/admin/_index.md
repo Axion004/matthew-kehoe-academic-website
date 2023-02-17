@@ -47,4 +47,9 @@ email: ""
 ---
 
 Matthew Kehoe is an applied mathematician who is interested in writing scientific software, developing and evaluating numerical algorithms, and applied problems in the physical sciences.
+
+#Education
+* Phd in Computer Science
+* MS in Computer Sicne
+* BA in ...
 {style="text-align: justify;"}

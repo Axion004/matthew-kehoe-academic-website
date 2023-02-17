@@ -80,5 +80,5 @@ email: ''
 highlight_name: true
 ---
 
-Matthew Kehoe is an applied mathematician who is interested in writing scientific software, developing and evaluating numerical algorithms, and applied problems in the physical sciences. 
+Matthew Kehoe is an applied mathematician ...
 {style="text-align: justify;"}

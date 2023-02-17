@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Matthew Kehoe
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Matthew
+last_name: Kehoe
 
 # Status emoji
 status:
@@ -14,34 +14,34 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Research Scientist, Applied Mathematics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Michigan Tech Research Institute
+    url: https://www.mtu.edu/mtri/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include numerical partial differential equations, computational electromagnetics, and machine learning, 
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Numerical Partial Differential Equations
+  - Computational Electromagnetics
+  - Machine Learning
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Computational Mathematics
+      institution: University of Illinois at Chicago
+      year: 2022
+    - course: MS in Computational Mathematics
+      institution: University of Michigan at Dearborn
+      year: 2015
+    - course: BA in Economics
+      institution: Oakland University
+      year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -80,5 +80,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Matthew Kehoe is an applied mathematician who is interested in writing scientific software, developing and evaluating numerical algorithms, and applied problems in the physical sciences. 
 {style="text-align: justify;"}

@@ -46,5 +46,5 @@ first_name: Matthew
 email: ""
 ---
 
-Matthew Kehoe is an applied mathematician ...
+Matthew Kehoe is an applied mathematician who is interested in writing scientific software, developing and evaluating numerical algorithms, and applied problems in the physical sciences.
 {style="text-align: justify;"}
